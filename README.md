@@ -1,0 +1,2 @@
+# learningJS
+Belajar Menggunakan github
